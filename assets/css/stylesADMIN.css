@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500&display=swap");
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+.navbar {
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+}
+
+.navbar .navbar-brand {
+  font-size: 2rem;
+  color: #ffa38f;
+}
+
+.navbar .navbar-brand span {
+  color: #ff2f00;
+}
+
+.navbar .navbar-nav a {
+  font-size: 1.3rem;
+  color: #ff2f00;
+}
+
+.navbar .nav-item a:hover {
+  color: #ffa38f;
+}
+
+.dropdown-menu.dropdown-menu-right {
+  right: 0;
+  left: auto;
+}
+
+.nav-link.dropdown-toggle:focus,
+.nav-link.dropdown-toggle:active {
+  color: #ff2f00;
+}

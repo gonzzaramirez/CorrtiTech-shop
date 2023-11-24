@@ -1,0 +1,5 @@
+Cuenta del administrador:
+Usuario: admin
+contraseña: 12345
+
+las demas cuentas tienen la misma contraseña.
